@@ -76,7 +76,15 @@ avg by (instance)(rate(node_load15{}[1m]))**
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 2. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
 
+<img width="936" alt="Alert_CPU_Util" src="https://github.com/user-attachments/assets/6d282c5c-2296-44c9-b76a-ad8ee49f402f">
 
+<img width="926" alt="Alert_FS" src="https://github.com/user-attachments/assets/3e5e846c-4e99-4cf6-9611-0ba331350d45">
+
+<img width="932" alt="Alert_RAM" src="https://github.com/user-attachments/assets/5b8d8b2e-c215-4e4b-8eb1-2bc2fe90a6a1">
+
+<img width="919" alt="Alert_CPULA" src="https://github.com/user-attachments/assets/bb65b92a-074c-4eb3-a1af-8c2285cb81b7">
+
+<img width="902" alt="All Alerts" src="https://github.com/user-attachments/assets/b238b47b-eb70-4ec9-b356-4981128487dd">
 
 ## Задание 4
 
