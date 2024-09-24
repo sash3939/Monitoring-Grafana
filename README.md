@@ -91,5 +91,6 @@ avg by (instance)(rate(node_load15{}[1m]))**
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 2. В качестве решения задания приведите листинг этого файла.
 
+[JSON_model](https://github.com/sash3939/Monitoring-Grafana/blob/main/JSON_model_Dashboard)
 ---
 
