@@ -17,6 +17,11 @@
 
 В решении приведите скриншоты тестовых событий из каналов нотификаций.
 
+<img width="515" alt="TG Notifications" src="https://github.com/user-attachments/assets/15153022-2c45-4ec3-8ea8-da4ef2e10400">
+
+<img width="737" alt="CPULA_TG" src="https://github.com/user-attachments/assets/49fc0699-5473-4398-a40c-f171a608a4e3">
+
+
 ## Обязательные задания
 
 ### Задание 1
@@ -90,6 +95,8 @@ avg by (instance)(rate(node_load15{}[1m]))**
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 2. В качестве решения задания приведите листинг этого файла.
+
+<img width="856" alt="All_Alerts+" src="https://github.com/user-attachments/assets/52d1db7b-3a43-4445-b93d-d2f3cd8aeaca">
 
 [JSON_model](https://github.com/sash3939/Monitoring-Grafana/blob/main/JSON_model_Dashboard)
 ---
